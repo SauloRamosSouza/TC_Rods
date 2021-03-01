@@ -1,0 +1,34 @@
+#header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-image: url(../img/44.jpg);
+    background-size: cover;
+}
+
+#fakeimg {
+    background-image: url(../img/logo.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#fakeimg2 {
+    background-image: url(../img/Vara-de-pesca.png);
+    background-position: center;
+    background-size: cover;
+}
+
+#fakeimg3 {
+    background-image: url(../img/artigo.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+a:hover {
+    background-color: rgb(10, 10, 10);
+    font-style: italic;
+    color: black;
+}
+
+
